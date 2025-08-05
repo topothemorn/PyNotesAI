@@ -3,7 +3,7 @@
 
 ---
 
-![PyNotes AI Screenshot]()
+![PyNotes AI Screenshot](Gemini_Generated_Image_5hhu3c5hhu3c5hhu.jpg)
 
 **PyNotes AI** is a sophisticated, terminal-based note-taking application built with Python and Textual. It seamlessly integrates the power of large language models like Google's Gemini to provide a fast, keyboard-driven workflow for capturing ideas and getting intelligent assistance without ever leaving your terminal.
 
