@@ -150,7 +150,6 @@ To run PyNotes AI from anywhere with a simple command (e.g., `pynotesai`), you c
 
 | Key         | Action                                       |
 | :---------- | :------------------------------------------- |
-| `d`         | Toggle between Light and Dark themes.        |
 | `n`         | Create a new, empty note.                    |
 | `Ctrl+S`    | Save the current note.                       |
 | `Ctrl+D`    | Delete the currently highlighted note.       |
